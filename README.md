@@ -1,2 +1,5 @@
 # miCuartoRepo
-Mi primersetup 
+
+Mi primersetup
+
+## En cuanto a todos
